@@ -1,0 +1,337 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:2:1-127:12
+INJECTED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:2:1-127:12
+INJECTED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:2:1-127:12
+INJECTED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:2:1-127:12
+MERGED from [com.mikepenz:materialdrawer:6.0.6] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\e6155ba57b419d859438c1fac33ded8f\materialdrawer-6.0.6\AndroidManifest.xml:2:1-12:12
+MERGED from [com.mikepenz:aboutlibraries:6.0.6] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\7e5a2d15a596cd99bbb25ea6b60ee4a1\aboutlibraries-6.0.6\AndroidManifest.xml:2:1-15:12
+MERGED from [com.mikepenz:itemanimators:1.0.1] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\839ae579bdee00454c389904784ffd7d\itemanimators-1.0.1\AndroidManifest.xml:2:1-12:12
+MERGED from [com.airbnb.android:lottie:2.5.1] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\90b13dde549d2aeb82da5f424191bd88\lottie-2.5.1\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:design:27.1.0] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\604e95d4eea178cda5e68f3b51cfc969\design-27.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\f5c191dcae480def8c94afde68ce955b\appcompat-v7-27.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\e922838822fcd875195ab076ca5ae3dd\support-v4-27.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\5764a33ab2f97cf22d73f684df445da1\circleimageview-2.2.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:27.1.0] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\f3d9cc143ff74ab64a263d016028ab35\cardview-v7-27.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.daimajia.slider:library:1.1.5] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\fbed57577989da56cd0916aa488e7225\library-1.1.5\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\447a7dd2f577469ad338403363884eab\recyclerview-v7-27.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\5e60e704857f40d7d6d27b018b05e9c1\support-fragment-27.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\713ea4f0724161ad25cc0d40b064a44f\animated-vector-drawable-27.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\01d03b710d1ed1150140dbe6b23d58b4\support-core-ui-27.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\4101beec0e77f1b1ec1637b2d369eba7\support-core-utils-27.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\f633034489f5e7f58694d5708bf8e895\support-vector-drawable-27.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\80cdf35494da447fac26245b1f2def36\support-media-compat-27.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.0] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\b3fbe60b4925ce8ebe2c9fd751e11430\transition-27.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\085607c2b96348d7737a8e4bd930861b\support-compat-27.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\10dffda92accef4d4da5b18a8f434c6f\constraint-layout-1.0.2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.mikepenz:materialize:1.1.2] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\860060d84e3179c0ed902629b90198c5\materialize-1.1.2\AndroidManifest.xml:2:1-12:12
+MERGED from [com.mikepenz:iconics-core:3.0.2] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\85f655c834a2a4bc404863489672f05f\iconics-core-3.0.2\AndroidManifest.xml:2:1-12:12
+MERGED from [com.mikepenz:fastadapter:3.2.4] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\915f835e1d6fa2043cfec521e8ba49dc\fastadapter-3.2.4\AndroidManifest.xml:2:1-12:12
+MERGED from [com.mikepenz:fastadapter-extensions-expandable:3.2.4] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\c466f92c5848cf1217a90f532bfa3dce\fastadapter-extensions-expandable-3.2.4\AndroidManifest.xml:2:1-12:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\99409147189a81d7378ebee5abd206a8\livedata-core-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\4a590b1ec8069942fa005250fe00b949\viewmodel-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\1f717b86d1c4780319a27508416a5090\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\39a3fb225d5de71e6a69020e9dff20f7\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:2:1-127:12
+INJECTED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:2:1-127:12
+INJECTED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:2:1-127:12
+	package
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:2:1-127:12
+		INJECTED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:2:1-127:12
+		INJECTED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.daimajia.slider:library:1.1.5] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\fbed57577989da56cd0916aa488e7225\library-1.1.5\AndroidManifest.xml:11:5-67
+MERGED from [com.daimajia.slider:library:1.1.5] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\fbed57577989da56cd0916aa488e7225\library-1.1.5\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:7:22-77
+uses-permission#android.Manifest.permission.READ_PHONE_STATE
+ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:8:5-84
+	android:name
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:8:22-81
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:9:5-75
+	android:name
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:9:22-72
+uses-permission#android.permission.SEND_SMS
+ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:10:22-64
+application
+ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:12:5-125:19
+MERGED from [com.mikepenz:aboutlibraries:6.0.6] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\7e5a2d15a596cd99bbb25ea6b60ee4a1\aboutlibraries-6.0.6\AndroidManifest.xml:11:5-13:19
+MERGED from [com.mikepenz:aboutlibraries:6.0.6] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\7e5a2d15a596cd99bbb25ea6b60ee4a1\aboutlibraries-6.0.6\AndroidManifest.xml:11:5-13:19
+MERGED from [com.airbnb.android:lottie:2.5.1] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\90b13dde549d2aeb82da5f424191bd88\lottie-2.5.1\AndroidManifest.xml:12:5-20
+MERGED from [com.airbnb.android:lottie:2.5.1] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\90b13dde549d2aeb82da5f424191bd88\lottie-2.5.1\AndroidManifest.xml:12:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\5764a33ab2f97cf22d73f684df445da1\circleimageview-2.2.0\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\5764a33ab2f97cf22d73f684df445da1\circleimageview-2.2.0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\10dffda92accef4d4da5b18a8f434c6f\constraint-layout-1.0.2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\10dffda92accef4d4da5b18a8f434c6f\constraint-layout-1.0.2\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:16:9-41
+	android:roundIcon
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:17:9-43
+	android:icon
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:19:9-39
+	android:name
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:13:9-30
+activity#app.infiniverse.grocery.SmsSend
+ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:20:9-54
+	android:name
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:20:19-42
+meta-data#preloaded_fonts
+ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:22:9-24:57
+	android:resource
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:24:13-54
+	android:name
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:23:13-43
+meta-data#android.app.searchable
+ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:25:9-27:50
+	android:resource
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:27:13-47
+	android:name
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:26:13-50
+receiver#app.infiniverse.grocery.ConnectivityReceiver
+ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:29:9-35:20
+	android:enabled
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:31:13-35
+	android:name
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:30:13-49
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:32:13-34:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:33:17-79
+	android:name
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:33:25-76
+activity#app.infiniverse.grocery.Splash
+ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:37:9-46:20
+	android:noHistory
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:39:13-37
+	android:theme
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:40:13-57
+	android:name
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:38:13-35
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:41:13-45:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:42:17-69
+	android:name
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:42:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:44:17-77
+	android:name
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:44:27-74
+activity#app.infiniverse.grocery.RegisterActivity
+ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:47:9-49:52
+	android:screenOrientation
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:49:13-49
+	android:name
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:48:13-45
+activity#app.infiniverse.grocery.LoginActivity
+ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:50:9-52:52
+	android:screenOrientation
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:52:13-49
+	android:name
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:51:13-42
+activity#app.infiniverse.grocery.HomeActivity
+ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:53:9-65:20
+	android:screenOrientation
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:56:13-49
+	android:launchMode
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:55:13-43
+	android:theme
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:57:13-48
+	android:name
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:54:13-41
+intent-filter#action:name:android.intent.action.SEARCH
+ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:58:13-60:29
+action#android.intent.action.SEARCH
+ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:59:17-71
+	android:name
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:59:25-68
+activity#app.infiniverse.grocery.StartActivity
+ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:66:9-68:52
+	android:screenOrientation
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:68:13-49
+	android:name
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:67:13-42
+activity#app.infiniverse.grocery.ProductDetailActivity
+ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:69:9-71:52
+	android:screenOrientation
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:71:13-49
+	android:name
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:70:13-50
+activity#app.infiniverse.grocery.MyCart
+ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:72:9-78:20
+	android:parentActivityName
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:74:13-55
+	android:name
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:73:13-35
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:75:13-77:72
+	android:value
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:77:17-69
+	android:name
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:76:17-63
+activity#app.infiniverse.grocery.OrderActivity
+ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:79:9-85:20
+	android:parentActivityName
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:81:13-55
+	android:name
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:80:13-42
+activity#app.infiniverse.grocery.OrderDetailsActivity
+ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:86:9-92:20
+	android:parentActivityName
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:88:13-56
+	android:name
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:87:13-49
+activity#app.infiniverse.grocery.ProfileActivity
+ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:93:9-95:52
+	android:screenOrientation
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:95:13-49
+	android:name
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:94:13-44
+activity#app.infiniverse.grocery.Category_wise_products
+ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:96:9-102:20
+	android:parentActivityName
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:98:13-55
+	android:name
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:97:13-51
+activity#app.infiniverse.grocery.SearchResultsActivity
+ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:103:9-109:20
+	android:parentActivityName
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:105:13-55
+	android:name
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:104:13-50
+activity#app.infiniverse.grocery.ChangePassword
+ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:110:9-112:52
+	android:screenOrientation
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:112:13-49
+	android:name
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:111:13-43
+activity#app.infiniverse.grocery.ChangeClientDetail
+ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:113:9-115:52
+	android:screenOrientation
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:115:13-49
+	android:name
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:114:13-47
+activity#app.infiniverse.grocery.ValidateOTP
+ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:116:9-118:52
+	android:screenOrientation
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:118:13-49
+	android:name
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:117:13-40
+activity#app.infiniverse.grocery.ForgetActivity
+ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:119:9-121:52
+	android:screenOrientation
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:121:13-49
+	android:name
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:120:13-43
+activity#app.infiniverse.grocery.OtpForgetActivity
+ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:122:9-124:52
+	android:screenOrientation
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:124:13-49
+	android:name
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:123:13-46
+uses-sdk
+INJECTED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml
+MERGED from [com.mikepenz:materialdrawer:6.0.6] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\e6155ba57b419d859438c1fac33ded8f\materialdrawer-6.0.6\AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:materialdrawer:6.0.6] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\e6155ba57b419d859438c1fac33ded8f\materialdrawer-6.0.6\AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:aboutlibraries:6.0.6] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\7e5a2d15a596cd99bbb25ea6b60ee4a1\aboutlibraries-6.0.6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mikepenz:aboutlibraries:6.0.6] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\7e5a2d15a596cd99bbb25ea6b60ee4a1\aboutlibraries-6.0.6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mikepenz:itemanimators:1.0.1] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\839ae579bdee00454c389904784ffd7d\itemanimators-1.0.1\AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:itemanimators:1.0.1] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\839ae579bdee00454c389904784ffd7d\itemanimators-1.0.1\AndroidManifest.xml:8:5-10:41
+MERGED from [com.airbnb.android:lottie:2.5.1] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\90b13dde549d2aeb82da5f424191bd88\lottie-2.5.1\AndroidManifest.xml:8:5-10:41
+MERGED from [com.airbnb.android:lottie:2.5.1] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\90b13dde549d2aeb82da5f424191bd88\lottie-2.5.1\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:27.1.0] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\604e95d4eea178cda5e68f3b51cfc969\design-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.0] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\604e95d4eea178cda5e68f3b51cfc969\design-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\f5c191dcae480def8c94afde68ce955b\appcompat-v7-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\f5c191dcae480def8c94afde68ce955b\appcompat-v7-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\e922838822fcd875195ab076ca5ae3dd\support-v4-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\e922838822fcd875195ab076ca5ae3dd\support-v4-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\5764a33ab2f97cf22d73f684df445da1\circleimageview-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\5764a33ab2f97cf22d73f684df445da1\circleimageview-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:27.1.0] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\f3d9cc143ff74ab64a263d016028ab35\cardview-v7-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.0] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\f3d9cc143ff74ab64a263d016028ab35\cardview-v7-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.daimajia.slider:library:1.1.5] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\fbed57577989da56cd0916aa488e7225\library-1.1.5\AndroidManifest.xml:7:5-9:41
+MERGED from [com.daimajia.slider:library:1.1.5] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\fbed57577989da56cd0916aa488e7225\library-1.1.5\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\447a7dd2f577469ad338403363884eab\recyclerview-v7-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\447a7dd2f577469ad338403363884eab\recyclerview-v7-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\5e60e704857f40d7d6d27b018b05e9c1\support-fragment-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\5e60e704857f40d7d6d27b018b05e9c1\support-fragment-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\713ea4f0724161ad25cc0d40b064a44f\animated-vector-drawable-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\713ea4f0724161ad25cc0d40b064a44f\animated-vector-drawable-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\01d03b710d1ed1150140dbe6b23d58b4\support-core-ui-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\01d03b710d1ed1150140dbe6b23d58b4\support-core-ui-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\4101beec0e77f1b1ec1637b2d369eba7\support-core-utils-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\4101beec0e77f1b1ec1637b2d369eba7\support-core-utils-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\f633034489f5e7f58694d5708bf8e895\support-vector-drawable-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\f633034489f5e7f58694d5708bf8e895\support-vector-drawable-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\80cdf35494da447fac26245b1f2def36\support-media-compat-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\80cdf35494da447fac26245b1f2def36\support-media-compat-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\b3fbe60b4925ce8ebe2c9fd751e11430\transition-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\b3fbe60b4925ce8ebe2c9fd751e11430\transition-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\085607c2b96348d7737a8e4bd930861b\support-compat-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\085607c2b96348d7737a8e4bd930861b\support-compat-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\10dffda92accef4d4da5b18a8f434c6f\constraint-layout-1.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\10dffda92accef4d4da5b18a8f434c6f\constraint-layout-1.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mikepenz:materialize:1.1.2] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\860060d84e3179c0ed902629b90198c5\materialize-1.1.2\AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:materialize:1.1.2] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\860060d84e3179c0ed902629b90198c5\materialize-1.1.2\AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:iconics-core:3.0.2] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\85f655c834a2a4bc404863489672f05f\iconics-core-3.0.2\AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:iconics-core:3.0.2] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\85f655c834a2a4bc404863489672f05f\iconics-core-3.0.2\AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:fastadapter:3.2.4] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\915f835e1d6fa2043cfec521e8ba49dc\fastadapter-3.2.4\AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:fastadapter:3.2.4] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\915f835e1d6fa2043cfec521e8ba49dc\fastadapter-3.2.4\AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:fastadapter-extensions-expandable:3.2.4] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\c466f92c5848cf1217a90f532bfa3dce\fastadapter-extensions-expandable-3.2.4\AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:fastadapter-extensions-expandable:3.2.4] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\c466f92c5848cf1217a90f532bfa3dce\fastadapter-extensions-expandable-3.2.4\AndroidManifest.xml:8:5-10:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\99409147189a81d7378ebee5abd206a8\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\99409147189a81d7378ebee5abd206a8\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\4a590b1ec8069942fa005250fe00b949\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\4a590b1ec8069942fa005250fe00b949\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\1f717b86d1c4780319a27508416a5090\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\1f717b86d1c4780319a27508416a5090\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\39a3fb225d5de71e6a69020e9dff20f7\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\39a3fb225d5de71e6a69020e9dff20f7\runtime-1.1.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml
+activity#com.mikepenz.aboutlibraries.ui.LibsActivity
+ADDED from [com.mikepenz:aboutlibraries:6.0.6] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\7e5a2d15a596cd99bbb25ea6b60ee4a1\aboutlibraries-6.0.6\AndroidManifest.xml:12:9-80
+	android:name
+		ADDED from [com.mikepenz:aboutlibraries:6.0.6] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\7e5a2d15a596cd99bbb25ea6b60ee4a1\aboutlibraries-6.0.6\AndroidManifest.xml:12:19-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [com.daimajia.slider:library:1.1.5] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\fbed57577989da56cd0916aa488e7225\library-1.1.5\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from [com.daimajia.slider:library:1.1.5] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\fbed57577989da56cd0916aa488e7225\library-1.1.5\AndroidManifest.xml:12:22-78

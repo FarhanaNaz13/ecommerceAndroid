@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Student\\Desktop\\New folder\\New folder\\groceryStore\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pt\\values-pt.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Student\\AppData\\Local\\Android\\Sdk\\caches\\transforms-2\\files-2.1\\f5c191dcae480def8c94afde68ce955b\\appcompat-v7-27.1.0\\res\\values-pt\\values-pt.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,225,331,438,527,628,746,829,909,996,1103,1215,1317,1425,1532,1642,1804,1904",
+                        "endColumns": "119,105,106,88,100,117,82,79,86,106,111,101,107,106,109,161,99,84",
+                        "endOffsets": "220,326,433,522,623,741,824,904,991,1098,1210,1312,1420,1527,1637,1799,1899,1984"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,225,331,438,527,628,746,829,909,996,1103,1215,1317,1425,1532,1642,1804,2016",
+                        "endColumns": "119,105,106,88,100,117,82,79,86,106,111,101,107,106,109,161,99,84",
+                        "endOffsets": "220,326,433,522,623,741,824,904,991,1098,1210,1312,1420,1527,1637,1799,1899,2096"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Student\\AppData\\Local\\Android\\Sdk\\caches\\transforms-2\\files-2.1\\e6155ba57b419d859438c1fac33ded8f\\materialdrawer-6.0.6\\res\\values-pt\\values-pt.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,112",
+                        "endColumns": "56,54",
+                        "endOffsets": "107,162"
+                    },
+                    "to": {
+                        "startLines": "19,20",
+                        "startColumns": "4,4",
+                        "startOffsets": "1904,1961",
+                        "endColumns": "56,54",
+                        "endOffsets": "1956,2011"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Student\\AppData\\Local\\Android\\Sdk\\caches\\transforms-2\\files-2.1\\085607c2b96348d7737a8e4bd930861b\\support-compat-27.1.0\\res\\values-pt\\values-pt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "22",
+                        "startColumns": "4",
+                        "startOffsets": "2101",
+                        "endColumns": "100",
+                        "endOffsets": "2197"
+                    }
+                }
+            ]
+        }
+    ]
+}

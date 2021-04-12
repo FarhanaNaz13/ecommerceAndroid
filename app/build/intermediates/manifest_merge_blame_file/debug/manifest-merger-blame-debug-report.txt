@@ -1,0 +1,257 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="app.infiniverse.grocery"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="26" />
+9-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:6:5-79
+12-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:6:22-76
+13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+13-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:7:5-80
+13-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:7:22-77
+14    <uses-permission android:name="android.Manifest.permission.READ_PHONE_STATE" />
+14-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:8:5-84
+14-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:8:22-81
+15    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+15-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:9:5-75
+15-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:9:22-72
+16    <uses-permission android:name="android.permission.SEND_SMS" />
+16-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:10:5-67
+16-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:10:22-64
+17    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+17-->[com.daimajia.slider:library:1.1.5] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\fbed57577989da56cd0916aa488e7225\library-1.1.5\AndroidManifest.xml:12:5-81
+17-->[com.daimajia.slider:library:1.1.5] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\fbed57577989da56cd0916aa488e7225\library-1.1.5\AndroidManifest.xml:12:22-78
+18
+19    <application
+19-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:12:5-125:19
+20        android:name="app.infiniverse.grocery.MyApp"
+20-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:13:9-30
+21        android:allowBackup="true"
+21-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:14:9-35
+22        android:debuggable="true"
+23        android:icon="@mipmap/ic_launcher"
+23-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:15:9-43
+24        android:label="@string/app_name"
+24-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:16:9-41
+25        android:roundIcon="@drawable/icon"
+25-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:17:9-43
+26        android:supportsRtl="true"
+26-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:18:9-35
+27        android:testOnly="true"
+28        android:theme="@style/MyTheme" >
+28-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:19:9-39
+29        <activity android:name="app.infiniverse.grocery.SmsSend" />
+29-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:20:9-54
+29-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:20:19-42
+30
+31        <meta-data
+31-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:22:9-24:57
+32            android:name="preloaded_fonts"
+32-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:23:13-43
+33            android:resource="@array/preloaded_fonts" />
+33-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:24:13-54
+34        <meta-data
+34-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:25:9-27:50
+35            android:name="android.app.searchable"
+35-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:26:13-50
+36            android:resource="@xml/searchable" />
+36-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:27:13-47
+37
+38        <receiver
+38-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:29:9-35:20
+39            android:name="app.infiniverse.grocery.ConnectivityReceiver"
+39-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:30:13-49
+40            android:enabled="true" >
+40-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:31:13-35
+41            <intent-filter>
+41-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:32:13-34:29
+42                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+42-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:33:17-79
+42-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:33:25-76
+43            </intent-filter>
+44        </receiver>
+45
+46        <activity
+46-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:37:9-46:20
+47            android:name="app.infiniverse.grocery.Splash"
+47-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:38:13-35
+48            android:noHistory="true"
+48-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:39:13-37
+49            android:theme="@style/MyTheme.AppBarOverlay" >
+49-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:40:13-57
+50            <intent-filter>
+50-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:41:13-45:29
+51                <action android:name="android.intent.action.MAIN" />
+51-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:42:17-69
+51-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:42:25-66
+52
+53                <category android:name="android.intent.category.LAUNCHER" />
+53-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:44:17-77
+53-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:44:27-74
+54            </intent-filter>
+55        </activity>
+56        <activity
+56-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:47:9-49:52
+57            android:name="app.infiniverse.grocery.RegisterActivity"
+57-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:48:13-45
+58            android:screenOrientation="portrait" />
+58-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:49:13-49
+59        <activity
+59-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:50:9-52:52
+60            android:name="app.infiniverse.grocery.LoginActivity"
+60-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:51:13-42
+61            android:screenOrientation="portrait" />
+61-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:52:13-49
+62        <activity
+62-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:53:9-65:20
+63            android:name="app.infiniverse.grocery.HomeActivity"
+63-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:54:13-41
+64            android:launchMode="singleTop"
+64-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:55:13-43
+65            android:screenOrientation="portrait"
+65-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:56:13-49
+66            android:theme="@style/MyTheme.home" >
+66-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:57:13-48
+67            <intent-filter>
+67-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:58:13-60:29
+68                <action android:name="android.intent.action.SEARCH" />
+68-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:59:17-71
+68-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:59:25-68
+69            </intent-filter>
+70
+71            <meta-data
+71-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:25:9-27:50
+72                android:name="android.app.searchable"
+72-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:26:13-50
+73                android:resource="@xml/searchable" />
+73-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:27:13-47
+74        </activity>
+75        <activity
+75-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:66:9-68:52
+76            android:name="app.infiniverse.grocery.StartActivity"
+76-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:67:13-42
+77            android:screenOrientation="portrait" />
+77-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:68:13-49
+78        <activity
+78-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:69:9-71:52
+79            android:name="app.infiniverse.grocery.ProductDetailActivity"
+79-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:70:13-50
+80            android:screenOrientation="portrait" />
+80-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:71:13-49
+81        <activity
+81-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:72:9-78:20
+82            android:name="app.infiniverse.grocery.MyCart"
+82-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:73:13-35
+83            android:parentActivityName="app.infiniverse.grocery.HomeActivity" >
+83-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:74:13-55
+84            <meta-data
+84-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:75:13-77:72
+85                android:name="android.support.PARENT_ACTIVITY"
+85-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:76:17-63
+86                android:value="app.infiniverse.grocery.HomeActivity" />
+86-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:77:17-69
+87        </activity>
+88        <activity
+88-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:79:9-85:20
+89            android:name="app.infiniverse.grocery.OrderActivity"
+89-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:80:13-42
+90            android:parentActivityName="app.infiniverse.grocery.HomeActivity" >
+90-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:81:13-55
+91            <meta-data
+91-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:75:13-77:72
+92                android:name="android.support.PARENT_ACTIVITY"
+92-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:76:17-63
+93                android:value="app.infiniverse.grocery.HomeActivity" />
+93-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:77:17-69
+94        </activity>
+95        <activity
+95-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:86:9-92:20
+96            android:name="app.infiniverse.grocery.OrderDetailsActivity"
+96-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:87:13-49
+97            android:parentActivityName="app.infiniverse.grocery.OrderActivity" >
+97-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:88:13-56
+98            <meta-data
+98-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:75:13-77:72
+99                android:name="android.support.PARENT_ACTIVITY"
+99-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:76:17-63
+100                android:value="app.infiniverse.grocery.OrderActivity" />
+100-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:77:17-69
+101        </activity>
+102        <activity
+102-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:93:9-95:52
+103            android:name="app.infiniverse.grocery.ProfileActivity"
+103-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:94:13-44
+104            android:screenOrientation="portrait" />
+104-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:95:13-49
+105        <activity
+105-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:96:9-102:20
+106            android:name="app.infiniverse.grocery.Category_wise_products"
+106-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:97:13-51
+107            android:parentActivityName="app.infiniverse.grocery.HomeActivity" >
+107-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:98:13-55
+108            <meta-data
+108-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:75:13-77:72
+109                android:name="android.support.PARENT_ACTIVITY"
+109-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:76:17-63
+110                android:value="app.infiniverse.grocery.HomeActivity" />
+110-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:77:17-69
+111        </activity>
+112        <activity
+112-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:103:9-109:20
+113            android:name="app.infiniverse.grocery.SearchResultsActivity"
+113-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:104:13-50
+114            android:parentActivityName="app.infiniverse.grocery.HomeActivity" >
+114-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:105:13-55
+115            <meta-data
+115-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:75:13-77:72
+116                android:name="android.support.PARENT_ACTIVITY"
+116-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:76:17-63
+117                android:value="app.infiniverse.grocery.HomeActivity" />
+117-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:77:17-69
+118        </activity>
+119        <activity
+119-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:110:9-112:52
+120            android:name="app.infiniverse.grocery.ChangePassword"
+120-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:111:13-43
+121            android:screenOrientation="portrait" />
+121-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:112:13-49
+122        <activity
+122-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:113:9-115:52
+123            android:name="app.infiniverse.grocery.ChangeClientDetail"
+123-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:114:13-47
+124            android:screenOrientation="portrait" />
+124-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:115:13-49
+125        <activity
+125-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:116:9-118:52
+126            android:name="app.infiniverse.grocery.ValidateOTP"
+126-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:117:13-40
+127            android:screenOrientation="portrait" />
+127-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:118:13-49
+128        <activity
+128-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:119:9-121:52
+129            android:name="app.infiniverse.grocery.ForgetActivity"
+129-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:120:13-43
+130            android:screenOrientation="portrait" />
+130-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:121:13-49
+131        <activity
+131-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:122:9-124:52
+132            android:name="app.infiniverse.grocery.OtpForgetActivity"
+132-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:123:13-46
+133            android:screenOrientation="portrait" />
+133-->C:\Users\Student\Desktop\New folder\New folder\groceryStore\app\src\main\AndroidManifest.xml:124:13-49
+134        <activity android:name="com.mikepenz.aboutlibraries.ui.LibsActivity" />
+134-->[com.mikepenz:aboutlibraries:6.0.6] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\7e5a2d15a596cd99bbb25ea6b60ee4a1\aboutlibraries-6.0.6\AndroidManifest.xml:12:9-80
+134-->[com.mikepenz:aboutlibraries:6.0.6] C:\Users\Student\AppData\Local\Android\Sdk\caches\transforms-2\files-2.1\7e5a2d15a596cd99bbb25ea6b60ee4a1\aboutlibraries-6.0.6\AndroidManifest.xml:12:19-77
+135    </application>
+136
+137</manifest>

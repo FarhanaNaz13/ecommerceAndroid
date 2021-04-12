@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mikepenz:fastadapter:3.2.4@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/AppData/Local/Android/Sdk/caches/transforms-2/files-2.1/915f835e1d6fa2043cfec521e8ba49dc/fastadapter-3.2.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/AppData/Local/Android/Sdk/caches/transforms-2/files-2.1/915f835e1d6fa2043cfec521e8ba49dc/fastadapter-3.2.4/res" />
+      <root url="file://$USER_HOME$/AppData/Local/Android/Sdk/caches/transforms-2/files-2.1/915f835e1d6fa2043cfec521e8ba49dc/fastadapter-3.2.4/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/AppData/Local/Android/Sdk/caches/modules-2/files-2.1/com.mikepenz/fastadapter/3.2.4/8ae041203be5d1ba442c977a9e0f0c9ab7c67956/fastadapter-3.2.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/AppData/Local/Android/Sdk/caches/modules-2/files-2.1/com.mikepenz/fastadapter/3.2.4/f26356a4f459c0f841cd57ef29b62551cf3c5b88/fastadapter-3.2.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

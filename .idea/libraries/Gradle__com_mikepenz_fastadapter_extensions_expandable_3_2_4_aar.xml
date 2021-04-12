@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mikepenz:fastadapter-extensions-expandable:3.2.4@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/AppData/Local/Android/Sdk/caches/transforms-2/files-2.1/c466f92c5848cf1217a90f532bfa3dce/fastadapter-extensions-expandable-3.2.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/AppData/Local/Android/Sdk/caches/transforms-2/files-2.1/c466f92c5848cf1217a90f532bfa3dce/fastadapter-extensions-expandable-3.2.4/res" />
+      <root url="file://$USER_HOME$/AppData/Local/Android/Sdk/caches/transforms-2/files-2.1/c466f92c5848cf1217a90f532bfa3dce/fastadapter-extensions-expandable-3.2.4/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/AppData/Local/Android/Sdk/caches/modules-2/files-2.1/com.mikepenz/fastadapter-extensions-expandable/3.2.4/ddc556a32ab5a35845a6216baffa622409cca340/fastadapter-extensions-expandable-3.2.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/AppData/Local/Android/Sdk/caches/modules-2/files-2.1/com.mikepenz/fastadapter-extensions-expandable/3.2.4/41364f642ecf9d3e3c9e7435d969811c0d3530f2/fastadapter-extensions-expandable-3.2.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
